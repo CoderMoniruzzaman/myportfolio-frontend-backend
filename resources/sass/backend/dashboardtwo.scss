@@ -1,0 +1,21 @@
+//profile view
+.card-board {
+    background-color: #fff;
+    padding: 15px 15px;
+    .image {
+        text-align: center;
+        img {
+            max-width: 240px;
+        }
+    }
+    .name {
+        text-transform: capitalize;
+        h2 {
+            font-size: 24px;
+            font-weight: 500;
+        }
+    }
+    .profile {
+        border-radius: 0px!important;
+    }
+}

@@ -1,0 +1,23 @@
+#seller-sidebar {
+    background-color: $bg-color-three !important;
+    .sidebar-header {
+        padding: 15px 15px;
+        background: $bg-color-four;
+        border-bottom: none;
+    }
+}
+
+#seller-profile-setting {
+    .alignleft {
+        float: left;
+    }
+    .alignright {
+        float: right;
+    }
+    .card-header-info {
+        h3 {
+            font-size: 18px;
+            padding-top: 7px;
+        }
+    }
+}
